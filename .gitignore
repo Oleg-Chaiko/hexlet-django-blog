@@ -1,0 +1,12 @@
+# created by virtualenv automatically
+.venv/
+__pycache__/
+.pyc
+dist/
+.idea/
+.env
+tests/__pycache__/
+.pytest_cahe/
+.coverage
+coverage.xml 
+hexlet_django_blog/__pycache__/
